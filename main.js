@@ -4,7 +4,7 @@ import { setupCounter } from './counter.js'
 document.querySelector('#app').innerHTML = `
   <div>
     <h1>Sokken Webshop</h1>
-    <p>Jij wil er toch ook warmpjes bij zitten?</p>
+    <h2>Sokken voor ieder mens en weertype</h2>
   </div>
 `
 
